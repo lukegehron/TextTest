@@ -1,11 +1,11 @@
 .Raleway {
 		font-family: "raleway", sans-serif;
-		font-weight: 700;
-		font-size: 12px;
+		font-weight: 300;
+		font-size: 20px;
 	}
 
   .Freight {
-	font-size: 15px;
+	font-size: 20px;
   line-height: 1.33333;
 	font-family: "Freight Text Pro", "Freight Text", "freight-text-pro", serif;
 }
